@@ -1,0 +1,17 @@
+{
+  "name": "jsonapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Vivek Kunapareddy",
+  "license": "ISC",
+  "dependencies": {
+    "excel": "^0.1.7",
+    "restify": "^4.3.0",
+    "xlsx": "^0.9.9"
+  }
+}
